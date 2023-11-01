@@ -16,6 +16,10 @@ Welcome to the 100 Days of Computer Vision program! This initiative is designed 
 - Provide a README.md file within each task's subfolder that outlines your approach, the techniques used, and any insights or challenges faced during the implementation.
 - Include relevant code, images, and any additional resources that support your work.
 
+## Tasks
+
+Check the [tasks.md](./tasks.md) file for a detailed list of tasks for each day. Each task is designed to build upon the previous day's learnings, gradually progressing from fundamental concepts to more advanced topics in computer vision.
+
 ## Resources
 
 To support your learning journey, we have compiled a list of resources and references related to each task. Check the Resources folder for additional learning materials and tutorials.
